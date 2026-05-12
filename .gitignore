@@ -69,6 +69,6 @@ vendor/
 .claude/settings.local.json
 "" 
 "# Scaffold tarballs from planning sessions (not source)" 
-"*.tar.gz" 
-"*.tgz" 
+*.tar.gz" 
+*.tgz" 
 
