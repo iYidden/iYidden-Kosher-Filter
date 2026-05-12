@@ -1,0 +1,6 @@
+{
+  "$schema": "TODO — define schema once category taxonomy is finalized in PLAN.md",
+  "version": 0,
+  "categories": [],
+  "notes": "Seed file. Populate from PLAN.md category taxonomy. Hard-block categories (adult, overt antisemitism, avodah zarah, anti-chassidus, companion/roleplay AI) must have no override path."
+}

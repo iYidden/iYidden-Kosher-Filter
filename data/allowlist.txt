@@ -1,0 +1,20 @@
+# Allowlist — one domain per line. Comments start with #.
+# Seed entries reflect Confirmed Principles in ../CLAUDE.md.
+
+stackoverflow.com
+stackexchange.com
+github.com
+dev.to
+lobste.rs
+archive.org
+
+# Chabad / frum non-Chabad news (allowed)
+chabad.org
+collive.com
+anash.org
+crownheights.info
+beismoshiach.org
+yeshivaworld.com
+matzav.com
+hamodia.com
+vinnews.com

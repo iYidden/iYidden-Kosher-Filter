@@ -1,0 +1,24 @@
+# Blocklist — one domain per line. Comments start with #.
+# Seed entries reflect Confirmed Principles in ../CLAUDE.md.
+
+youtube.com
+m.youtube.com
+youtu.be
+
+wikipedia.org
+
+news.ycombinator.com
+
+# Companion / roleplay AI (hard-block)
+janitor.ai
+character.ai
+
+# Tzioni news (blocked)
+timesofisrael.com
+jpost.com
+ynet.co.il
+ynetnews.com
+israelnationalnews.com
+jta.org
+haaretz.com
+haaretz.co.il
