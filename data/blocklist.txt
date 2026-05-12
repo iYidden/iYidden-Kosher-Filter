@@ -6,14 +6,24 @@ m.youtube.com
 youtu.be
 
 wikipedia.org
+wikimedia.org
+wiki.com
 
 news.ycombinator.com
 
 # Companion / roleplay AI (hard-block)
 janitor.ai
 character.ai
+replika.com
+chai.app
+spicychat.ai
+candy.ai
+perchance.org
+civitai.com
+dreamgf.ai
+c.ai
 
-# Tzioni news (blocked)
+# Secular Tzioni News (blocked)
 timesofisrael.com
 jpost.com
 ynet.co.il
@@ -22,3 +32,86 @@ israelnationalnews.com
 jta.org
 haaretz.com
 haaretz.co.il
+globes.co.il
+mako.co.il
+n12.co.il
+jewishpress.com
+algemeiner.com
+forward.com
+tabletmag.com
+
+# goy news
+cnn.com
+foxnews.com
+nytimes.com
+washingtonpost.com
+theguardian.com
+msnbc.com
+reuters.com
+npr.org
+apnews.com
+bbc.com
+wsj.com
+bloomberg.com
+aljazeera.com
+politico.com
+theatlantic.com
+newyorker.com
+vox.com
+slate.com
+vice.com
+buzzfeed.com
+huffpost.com
+axios.com
+semafor.com
+latimes.com
+chicagotribune.com
+nbcnews.com
+abcnews.go.com
+cbsnews.com
+
+# social media
+reddit.com
+twitter.com
+x.com
+discord.com
+primevideo.com
+paramountplus.com
+appletv.com
+fb.com
+facebook.com
+instagram.com
+tiktok.com
+news.ycombinator.com
+ycombinator.com
+tumblr.com
+bsky.app
+pinterest.com
+pintrest.com
+snapchat.com
+threads.net
+quora.com
+lemmy.world
+mastodon.social
+
+# goyishe entertainment
+steampowered.com
+youtube.com
+youtu.be
+netflix.com
+hulu.com
+disneyplus.com
+crunchyroll.com
+funimation.com
+twitch.tv
+spotify.com
+steamcommunity.com
+epicgames.com
+ign.com
+espn.com
+
+# goyishe lifestyle
+medium.com
+substack.com
+goop.com
+epicurious.com

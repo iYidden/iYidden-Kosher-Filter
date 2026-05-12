@@ -69,10 +69,13 @@ See PLAN.md §5–7 for the full architecture details.
 - Classification inference runs **locally only** — NPU on Windows, Gemini
   Nano on Android. Never propose sending browsing data to a cloud API for
   classification. Browsing patterns are halachically sensitive.
-- Tzioni news (Times of Israel, JPost, Ynet, Arutz Sheva, JTA, Haaretz)
-  is blocked. Frum non-Chabad news (Yeshiva World, Matzav, Hamodia, VIN)
-  and Chabad news (Chabad.org, COLlive, Anash, CrownHeights.info, Beis
-  Moshiach) are allowed.
+- Secular Israeli news (Times of Israel, JPost, Ynet, Arutz Sheva, JTA,
+  Haaretz) is blocked because these are *secular* outlets with secular
+  editorial values — not for anti-Zionist reasons. The user supports
+  settling the full Land of Israel. The block is on secular content, not
+  on Israel or Zionism. Frum non-Chabad news (Yeshiva World, Matzav,
+  Hamodia, VIN) and Chabad news (Chabad.org, COLlive, Anash,
+  CrownHeights.info, Beis Moshiach) are allowed.
 - Hybrid default + tiered override is the architecture. Don't propose
   pure allowlist or pure blocklist alternatives.
 - Hard-block categories (adult, overt antisemitism, avodah zarah, anti-

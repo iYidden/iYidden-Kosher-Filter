@@ -13,8 +13,80 @@ chabad.org
 collive.com
 anash.org
 crownheights.info
+chabad.info
 beismoshiach.org
-yeshivaworld.com
-matzav.com
-hamodia.com
-vinnews.com
+sichoshakodesh.com
+hayom.org
+sichos-in-english.org
+sie.org
+kehot.com
+rebbedrive.com
+mafteiach.app
+
+# Other Lubavitch (Allowed)
+chabadpedia.co.il
+lubavitch.com
+chassidus.org
+theyeshiva.net
+
+# Torah resources (Allowed)
+hebrewbooks.org
+otzar.org
+alhatorah.org
+dafyomi.org
+
+# Dev tools (allowed)
+github.com
+gitlab.com
+bitbucket.org
+stackoverflow.com
+stackexchange.com
+npmjs.com
+pypi.org
+rubygems.org
+crates.io
+packagist.org
+developer.mozilla.org (MDN)
+web.dev
+dev.to
+lobste.rs
+python.org
+nodejs.org
+golang.org
+rust-lang.org
+kernel.org
+
+# AI tools (allowed)
+claude.ai 
+anthropic.com 
+chatgpt.com
+openai.com
+gemini.google.com
+perplexity.ai
+cursor.sh
+cursor.com 
+github.com
+
+# Utility (allowed)
+amazon.com
+ebay.com
+google.com
+gmail.com
+calendar.google.com
+drive.google.com
+docs.google.com
+microsoft.com
+office.com
+archive.org
+web.archive.org
+irs.gov
+usps.com
+
+# cloud (allowed)
+aws.amazon.com
+console.aws.amazon.com
+cloud.google.com
+azure.microsoft.com
+cloudflare.com
+vercel.com
+netlify.com
