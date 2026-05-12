@@ -67,3 +67,8 @@ vendor/
 
 # Local Claude / agent state
 .claude/settings.local.json
+"" 
+"# Scaffold tarballs from planning sessions (not source)" 
+"*.tar.gz" 
+"*.tgz" 
+
