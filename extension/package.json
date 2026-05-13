@@ -1,8 +1,8 @@
 {
-  "name": "jewish-filter-extension",
+  "name": "kosher-filter-extension",
   "version": "0.1.0",
   "private": true,
-  "description": "Browser extension for the Jewish content filter (Phase 1 MVP).",
+  "description": "Browser extension for the kosher filter (Phase 1 MVP).",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -68,12 +68,12 @@ async function loadSeed(): Promise<void> {
   // Seed JSON is bundled by Vite at build time (see top-of-file import).
   const data = seedFile as { entries?: CategoryEntry[] };
   if (!Array.isArray(data.entries)) {
-    console.warn('[jf] seed file malformed; skipping');
+    console.warn('[kf] seed file malformed; skipping');
     return;
   }
   const result = await seedCategories(data.entries);
   console.log(
-    `[jf] seed loaded: ${result.inserted} inserted, ${result.skipped} skipped`,
+    `[kf] seed loaded: ${result.inserted} inserted, ${result.skipped} skipped`,
   );
 }
 
@@ -91,7 +91,7 @@ async function rebuildDnrRules(): Promise<RebuildStats> {
   });
 
   console.log(
-    `[jf] DNR rebuilt: ${stats.blocked} active rules (${stats.hardBlock} hard, ${stats.softBlock} soft), ${stats.allowed} allow-listed, ${stats.unknown} unknown${stats.truncated ? ' [TRUNCATED]' : ''}`,
+    `[kf] DNR rebuilt: ${stats.blocked} active rules (${stats.hardBlock} hard, ${stats.softBlock} soft), ${stats.allowed} allow-listed, ${stats.unknown} unknown${stats.truncated ? ' [TRUNCATED]' : ''}`,
   );
   return { ...stats, schemaVersion: SCHEMA_VERSION };
 }

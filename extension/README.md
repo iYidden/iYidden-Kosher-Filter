@@ -1,6 +1,6 @@
-# Jewish Filter — Browser Extension
+# Kosher Filter — Browser Extension
 
-Phase 1 MVP of the Jewish content filter. Chromium-targeted (Edge,
+Phase 1 MVP of the kosher filter. Chromium-targeted (Edge,
 Chrome, Brave, Arc) Manifest V3 extension.
 
 See the repo root for `PLAN.md` and project-wide context.

@@ -13,7 +13,7 @@ import { render } from 'preact';
 function Settings() {
   return (
     <main style={{ minWidth: 320, padding: 16, fontFamily: 'sans-serif' }}>
-      <h1>Jewish Filter</h1>
+      <h1>Kosher Filter</h1>
       <p>
         <em>Settings UI placeholder.</em>
       </p>

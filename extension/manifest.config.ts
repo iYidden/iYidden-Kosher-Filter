@@ -26,10 +26,10 @@ import pkg from './package.json' with { type: 'json' };
  */
 export default defineManifest({
   manifest_version: 3,
-  name: 'Jewish Content Filter',
+  name: 'iYidden Kosher Filter - Web Extension',
   version: pkg.version,
   description:
-    'A content filter for the frum developer — kedusha-first, developer-compatible.',
+    'Kosher Filter — a content filter for the frum developer, kedusha-first and developer-compatible.',
   // Minimal permissions surface.
   permissions: [
     'declarativeNetRequest',
@@ -41,7 +41,7 @@ export default defineManifest({
     type: 'module',
   },
   action: {
-    default_title: 'Jewish Content Filter',
+    default_title: 'Kosher Filter',
     default_popup: 'src/ui/settings/index.html',
   },
   // The block page is reached by DNR redirect, so it must be web-accessible.

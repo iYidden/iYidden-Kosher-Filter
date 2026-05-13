@@ -22,7 +22,7 @@ import {
   type OverrideLogEntry,
 } from './schema';
 
-const DB_NAME = 'jewish-filter';
+const DB_NAME = 'kosher-filter';
 const STORE_CATEGORIES = 'categories';
 const STORE_OVERRIDE_LOG = 'override_log';
 

@@ -1,4 +1,4 @@
-# Jewish Content Filter — Claude Code Context
+# Kosher Filter — Claude Code Context
 
 > **Read PLAN.md before doing anything else.** It is the source of truth for
 > architecture, categorization, and roadmap. Treat its "Confirmed Principles"
@@ -163,7 +163,7 @@ content decisions:
 ## File layout (target, build out as you go)
 
 ```
-jewish-filter/
+kosher-filter/
 ├── CLAUDE.md                ← this file
 ├── PLAN.md                  ← the v0.4 plan, source of truth
 ├── NOTES.md                 ← running notes, deferred questions, decisions
